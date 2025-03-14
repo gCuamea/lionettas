@@ -12,7 +12,7 @@
 .phone {
   position: fixed;
   inset-block-end: 20px;
-  inset-inline-end: 20px;
+  inset-inline-end: 10px;
   width: 10vw;
 
   display: inline-block;
