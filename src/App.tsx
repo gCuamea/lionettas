@@ -1,6 +1,6 @@
 import './App.css'
-import menu from '/assets/menu.png'
-import phone from '/assets/phone.png'
+import menu from './assets/menu.png'
+import phone from './assets/phone.png'
 
 function App() {
   return (
